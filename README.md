@@ -1,4 +1,4 @@
-# Alogrithm
+# Algorithm
 IOT Algorithm Study
 
 ## 진행방식
