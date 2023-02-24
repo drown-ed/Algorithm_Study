@@ -1,3 +1,4 @@
+# Level 0 _ 옹알이 통과
 def solution(babbling):
     check_list = ["aya", "ye", "woo", "ma"] # 비교값
     answer = 0  # 정답 개수
